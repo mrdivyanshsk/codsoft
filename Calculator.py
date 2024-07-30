@@ -23,7 +23,7 @@ def getpromptb(promt):
 b=getpromptb("Enter the value of oprand b : ")
 
 
-x=float(input("Choose among four arithmatic operations\n1). Addition (+)\n2). Subtraction(-)\n3). Multiplication (*)\n4). Division (/)\n5). Exponential\nchoose your option : "))
+x=float(input("Choose among four arithmetic operations\n1). Addition (+)\n2). Subtraction(-)\n3). Multiplication (*)\n4). Division (/)\n5). Exponential\nchoose your option : "))
 
 match x :
   case 1 :
